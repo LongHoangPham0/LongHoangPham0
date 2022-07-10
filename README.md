@@ -59,6 +59,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
+<a href="https://app.daily.dev/JSRuinedKing"><img src="https://api.daily.dev/devcards/c14a9137ba3f49e3b9ffacb620eea2e3.png?r=8ml" width="400" alt="Shen's Dev Card"/></a>
   <img src='images/logo-shenlong.png' alt='longphamhoang-logo' />
   <br>
   <a href="https://facebook.com/hoangpham.long.129/" target="blank">
